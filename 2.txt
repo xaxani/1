@@ -214,11 +214,11 @@ CGTN,rtsp://27.148.237.40:554/live/ch15102717162043740968.sdp?playtype=1&FccMedi
 福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 福州生活,http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
-宁德综合,http://live.nddst.com/ndtv1/1080P/live.m3u8
-宁德公共,http://live.nddst.com/ndtv2/1080P/live.m3u8
 宁德综合,http://live.nddst.com/ndtv1/playlist.m3u8
 宁德公共,http://live.nddst.com/ndtv2/playlist.m3u8
 宁德综合,rtsp://27.148.237.40:554/live/ch18021018574362353141.sdp?playtype=1&FccMediaIP=239.61.2.211&FccMediaPort=9254&boid=001&backupagent=27.148.237.40:554&clienttype=1&time=20210219183334+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5952750488990&mediaid=ch18021018574362353141&ctype=2&TSTVTimeLife=0&contname=&authid=0&terminalflag=1&UserLiveType=0&nodelevel=3&profilecode=&AuthInfo=oGOPUKD5%2BZ%2Bff3WYWAsldQCLJ9sPedsyluVQ%2FQv%2B%2BNVF1g3I0eQ%2B%2FzjaVmULtthA6D6qpeQc5ac2pcWvd0GDGQ%3D%3D&bitrate=2000&distype=0
+宁德综合,http://live.nddst.com/ndtv1/1080P/live.m3u8
+宁德公共,http://live.nddst.com/ndtv2/1080P/live.m3u8
 
 平潭综合,http://31191.hlsplay.aodianyun.com/tv_radio_31191/tv_channel_907.m3u8
 南安新闻综合,http://natv.cnjrna.com:3000/channel/sovp/1000000000000018/video_1564_none.m3u8
