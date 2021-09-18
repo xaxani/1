@@ -1,0 +1,11 @@
+点播：
+佳丽,https://api.jializyzapi.com/inc/api.php,不解析
+鲨鱼,https://shayuapi.com/api.php/provide/vod/at/xml/,不解析
+乐播,https://lbapi9.com/api.php/provide/vod/at/xml/,不解析
+优果,https://www.ugvapi.com/inc/zyapimac.php,不解析
+花椒,https://apihjzy.com/api.php/provide/vod/?ac=list,不解析
+老鸭,https://api.apilyzy.com/api.php/provide/vod/?ac=list,不解析
+环亚,http://wmcj8.com/inc/sapi.php,不解析
+结束
+
+    
